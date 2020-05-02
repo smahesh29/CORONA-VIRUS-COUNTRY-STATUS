@@ -1,0 +1,8 @@
+{
+  "website": "https://www.worldometers.info/coronavirus/",
+  "email": {
+    "subject": "CORONA VIRUS COUNTRY STATUS",
+    "from": "your_email_address",
+    "password": "App Passwords"
+  }
+}
